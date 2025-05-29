@@ -1,7 +1,6 @@
 <script setup>
 import { ref } from 'vue'
 import wdTree from './components/treeSelect.vue'
-import WdDemo from './components/demo.vue'
 
 const list = ref([
   {
